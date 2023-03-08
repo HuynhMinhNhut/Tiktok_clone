@@ -1,0 +1,76 @@
+.post-item {
+    padding: 20px 0;
+    border-bottom: 1px solid #e3e3e4;
+}
+
+.post-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.avatar {
+    width: 5.6rem;
+    height: 5.6rem;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.item-info {
+    font-size: 1.6rem;
+    flex: 2;
+    margin: 0 0 18px 10px;
+}
+
+.nickname {
+    font-size: 1.8rem;
+}
+
+.check {
+    font-size: 1.4rem;
+    margin: 0 6px 0 4px;
+    color: #20d5ec;
+}
+
+.name {
+    font-size: 1.4rem;
+}
+
+.sound-icon {
+    transform: translateY(3px);
+    margin-right: 5px;
+}
+
+.follow-btn {
+    height: 32px;
+    padding: 0 10px;
+}
+
+.video-side {
+    display: flex;
+    margin-left: 66px;
+}
+
+.interact {
+    align-self: flex-end;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.box-icon {
+    width: 48px;
+    height: 48px;
+    background-color: #f7f7f7;
+    display: flex;
+    border-radius: 50%;
+    margin: 8px 0;
+}
+
+.interact-icon {
+    font-size: 20px;
+    margin: auto;
+}
+
+.value {
+    font-size: 1.2rem;
+    color: rgba(22, 24, 35, 0.75);
+}
